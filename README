@@ -1,0 +1,3 @@
+1957  virtualenv -p python3.5 venv
+1958  source venv/bin/activate
+1966  python3.5 mongo.py
